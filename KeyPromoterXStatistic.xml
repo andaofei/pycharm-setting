@@ -6,7 +6,15 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'xamind'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -38,7 +46,7 @@
           <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+R'</ShortCut>
           <Description>Run manage.py Task...</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'xamind'">
@@ -46,7 +54,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'xamind'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
